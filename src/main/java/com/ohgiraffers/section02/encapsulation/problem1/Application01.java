@@ -12,7 +12,7 @@ public class Application01 {
         monster1.name = "드라큘라";
         monster1.hp = 200;
 
-        System.out.println("monster1의 name " + monster1.name);
+        System.out.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 println("monster1의 name " + monster1.name);
         System.out.println("monster1의 hp = " + monster1.hp);
         System.out.println();
 
